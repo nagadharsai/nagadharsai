@@ -2,7 +2,7 @@
 
 I’m a Full Stack Engineer with 6+ years of experience building scalable, secure, and high-performance systems across government and eCommerce platforms.
 
-Right now, I’m working with the New York State Comptroller’s Office, where the focus is on modernizing legacy systems into reliable, maintainable, and production-grade applications. The work here is not just about writing code — it’s about building systems that are stable, compliant, and can handle real-world scale.
+Right now, I’m working with the New York State Comptroller’s Office, where the focus is on modernizing legacy systems into reliable, maintainable, and production-grade applications. The work here is not just about writing code, it’s about building systems that are stable, compliant, and capable of handling real-world scale.
 
 Before this, I worked on FedEx ShopRunner’s One Click Checkout system, where I built backend services and APIs that supported real-time transactions in a distributed microservices environment. That experience shaped how I think about performance, reliability, and system design.
 
@@ -12,7 +12,7 @@ Before this, I worked on FedEx ShopRunner’s One Click Checkout system, where I
 
 - Backend development using Java and Spring Boot  
 - Designing microservices and REST APIs  
-- Building full stack applications with React  
+- Building full-stack applications with React  
 - Writing efficient database logic using PL/SQL and PostgreSQL  
 - Working with cloud platforms like AWS and Azure  
 - Debugging and resolving production issues in high-impact systems  

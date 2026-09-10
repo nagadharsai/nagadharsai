@@ -249,9 +249,9 @@ The goal is **quality over repository count**.
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nagadharsai&bg_color=00000000&color=8B949E&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nagadharsai&theme=github-compact&hide_border=true"
   width="100%"
-  alt="Nagadhar Sai Kanderi GitHub activity graph"
+  alt="GitHub Activity Graph"
 />
 
 </div>
@@ -263,19 +263,20 @@ The goal is **quality over repository count**.
 <div align="center">
 
 <img
+  src="https://github-readme-stats.vercel.app/api?username=nagadharsai&show_icons=true&theme=transparent&hide_border=true"
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=nagadharsai&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github"
-  alt="Nagadhar Sai Kanderi GitHub statistics"
+  alt="GitHub Statistics"
 />
 
+<br/>
+
 <img
+  src="https://streak-stats.demolab.com/?user=nagadharsai&theme=transparent&hide_border=true"
   height="170"
-  src="https://streak-stats.demolab.com?user=nagadharsai&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9"
-  alt="Nagadhar Sai Kanderi contribution streak"
+  alt="GitHub Streak"
 />
 
 </div>
-
 ---
 
 ## 3D Contribution Landscape

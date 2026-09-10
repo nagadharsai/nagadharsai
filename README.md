@@ -25,8 +25,8 @@
 ## `> whoami`
 
 ```text
-Software Engineer with 6+ years of experience building
-production systems across government, eCommerce,
+Software Engineer with 8+ years of experience building
+production systems across government, e-commerce,
 automotive logistics, and enterprise environments.
 
 Primary focus:
@@ -241,76 +241,6 @@ The goal is **quality over repository count**.
 06  AI agents and verification pipelines
 07  Production observability & reliability
 ```
-
----
-
-## GitHub Engineering Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nagadharsai&theme=github-compact&hide_border=true"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
-
-</div>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=nagadharsai&show_icons=true&theme=transparent&hide_border=true"
-  height="170"
-  alt="GitHub Statistics"
-/>
-
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com/?user=nagadharsai&theme=transparent&hide_border=true"
-  height="170"
-  alt="GitHub Streak"
-/>
-
-</div>
----
-
-## 3D Contribution Landscape
-
-<div align="center">
-
-<!-- Generated automatically by GitHub Actions -->
-
-<img
-  src="./profile-3d-contrib/profile-season-animate.svg"
-  width="100%"
-  alt="Animated 3D GitHub contribution graph"
-/>
-
-</div>
-
----
-
-## Contribution Flow
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/nagadharsai/nagadharsai/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/nagadharsai/nagadharsai/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution animation"
-    src="https://raw.githubusercontent.com/nagadharsai/nagadharsai/output/github-contribution-grid-snake.svg"
-  />
-</picture>
 
 ---
 

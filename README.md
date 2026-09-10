@@ -17,7 +17,13 @@
 <a href="https://www.linkedin.com/in/sai-kanderi-6588b72a0/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://x.com/nagadharsai">
+  <img src="https://img.shields.io/badge/X-@nagadharsai-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
+<a href="https://www.reddit.com/user/NagadharSai/">
+  <img src="https://img.shields.io/badge/Reddit-NagadharSai-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
 </div>
 
 ---

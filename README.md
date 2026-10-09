@@ -28,6 +28,38 @@
 
 ---
 
+<!-- capability-library:start -->
+## Browse my repositories
+
+My account contains personal projects, learning work, and forks used as an AI engineering capability library. Reference forks retain upstream authorship; they are not presented as products I built.
+
+**Personal project:** [Resume analysis API](https://github.com/nagadharsai/ai-resume-analyzer) — Java/Spring Boot rule-based prototype, with a frontend planned.
+
+### Reusable capability groups
+
+- [AI examples and learning](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-ai-learning%20fork%3Atrue&type=repositories)
+- [AI agents and developer tools](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-ai-agents%20fork%3Atrue&type=repositories)
+- [Agent skills and design guidance](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-agent-skills%20fork%3Atrue&type=repositories)
+- [UI components and styling](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-ui-components%20fork%3Atrue&type=repositories)
+- [Website builders and starters](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-web-builders%20fork%3Atrue&type=repositories)
+- [Dental applications and references](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-dental-solutions%20fork%3Atrue&type=repositories)
+- [Business platforms and infrastructure](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-business-platforms%20fork%3Atrue&type=repositories)
+- [Marketing and business development](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-marketing-tools%20fork%3Atrue&type=repositories)
+- [Automation and integrations](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-automation%20fork%3Atrue&type=repositories)
+- [Voice image and video](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-voice-media%20fork%3Atrue&type=repositories)
+- [Foundation model references](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-foundation-models%20fork%3Atrue&type=repositories)
+- [Career and software learning](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-career-learning%20fork%3Atrue&type=repositories)
+- [Testing and security utilities](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-quality-security%20fork%3Atrue&type=repositories)
+- [Personal and operating system utilities](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-personal-utilities%20fork%3Atrue&type=repositories)
+- [Personal portfolio and profile](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-portfolio%20fork%3Atrue&type=repositories)
+- [Personal application prototypes](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-app-prototypes%20fork%3Atrue&type=repositories)
+- [Learning archive and placeholders](https://github.com/search?q=user%3Anagadharsai%20topic%3Agroup-learning-archive%20fork%3Atrue&type=repositories)
+
+Groups organize related capabilities; they do not certify production readiness. Component licenses, compatibility and tests are checked before reuse. Private company and client work stays separate.
+<!-- capability-library:end -->
+
+---
+
 ## `> whoami`
 
 ```text
@@ -207,13 +239,15 @@ but:
 
 ### 🤖 AI Resume Analyzer
 
-**AI-powered resume analysis and job-matching system**
+**Rule-based resume analysis prototype**
 
 Evaluates resumes, identifies skill gaps, and compares candidate profiles against job descriptions.
 
 **Engineering focus**
 
-`Java` · `Spring Boot` · `REST API` · `AI/NLP` · `React` · `Microservices`
+`Java` · `Spring Boot` · `REST API` · `Rule-based matching`
+
+The current implementation uses keyword checks. A frontend and model-based analysis are not implemented.
 
 [**→ Explore Repository**](https://github.com/nagadharsai/ai-resume-analyzer)
 
